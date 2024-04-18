@@ -24,8 +24,7 @@ Feel free to check out my repositories to explore some of my projects, coding ex
 
 <img align="center" src="https://i.ibb.co/8sy2C93/coding-and-coffee-logo-design-template-vector.jpg" alt="Code and Coffee" width="150" height="150">
 
-## Stats 📊
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavrajsky&show_icons=true&locale=en&layout=compact" alt="yadavrajsky" /></p>
+## Stats 📊 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavrajsky&show_icons=true&locale=en" alt="yadavrajsky" /></p>
 
 ## Get in Touch 🚀
