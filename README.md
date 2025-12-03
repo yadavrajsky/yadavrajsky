@@ -13,8 +13,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+
   <!-- Web Technologies -->
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
@@ -26,8 +25,9 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <!-- Cybersecurity -->
+  <!-- Cybersecurity & Cloud -->
   <img alt="Certified AppSec Practitioner" src="https://img.shields.io/badge/Certified_AppSec_Practitioner-%23FF5722.svg?&style=for-the-badge"/>
+  <img alt="AWS Solution Architect Associate" src="https://img.shields.io/badge/Certified_AppSec_Practitioner-%23FF5722.svg?&style=for-the-badge"/>
   <!-- Blockchain -->
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
   <!-- Artificial Intelligence -->
